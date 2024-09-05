@@ -131,7 +131,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
 ## 📚 Books
-- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
+- [Designing Data-Intensive Applications: Finishing this now](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
 - [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
 
 ## 📺 YouTube Channels
